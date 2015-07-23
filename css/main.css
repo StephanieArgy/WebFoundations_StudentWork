@@ -281,15 +281,26 @@ textarea {
 
 /*MY OWN CSS*/
 
+body {
+  font-family: 'Libre Baskerville', serif;
+}
+
 header {
   background: #222;
+  border-bottom: 6px double #777;
   color: #ddd;
   padding: .5rem;
 }
 
 h1 {
-  text-align: center;
+  color: #fff;
+  font-variant: small-caps;
   margin-top: 0;
+  text-align: center;
+}
+
+p {
+  font-size: 1.3em;
 }
 
 .mainContent {
