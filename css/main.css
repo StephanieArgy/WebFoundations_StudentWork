@@ -340,6 +340,16 @@ h2 {
   text-align: center;
 }
 
+.assignmentDescription {
+  color: darkblue;
+  font-variant: small-caps;
+  font-weight:bold;
+}
+
+h3 {
+  text-align: center;
+}
+
 @media screen and (max-width: 600px) {
 
   .iframeContainer {
